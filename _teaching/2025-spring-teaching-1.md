@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 # permalink: /teaching/2014-spring-teaching-1
 venue: "Hong Kong University of Science and Technology"
-# date: 2025-03-01
+date: 2025-03-01
 # location: "City, Country"
 ---
 
