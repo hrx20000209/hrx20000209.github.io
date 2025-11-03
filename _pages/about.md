@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD student from the Department of Computer Science and Engineering at Hong Kong University of Science and technology. My research interest includes Efficient Edge AI Systems, Mobile Computing and Multimodal Sensing and Inference.
+I am a 2nd year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, supervised by Prof. [Xiaomin Ouyang](https://xmouyang.github.io/) at the [MINSys Lab](https://xmouyang.github.io/Team/). My research interest includes Efficient Edge AI Systems, Mobile Computing and Multimodal Sensing and Inference.

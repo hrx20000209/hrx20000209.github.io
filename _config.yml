@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Runxi Huang/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Runxi Huang"
-description              : &description "1st year PhD student at HKUST"
+description              : &description "2nd year PhD student at HKUST"
 url                      : https://hrx20000209.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hrx20000209/hrx20000209.github.io"
@@ -22,10 +22,10 @@ repository               : "hrx20000209/hrx20000209.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Runxi Huang"
   # pronouns         : "he/him"  
-  bio              : "1st year PhD student at HKUST"
+  bio              : "2nd year PhD student at HKUST"
   location         : "Hong Kong"
   employer         : "HKUST"
   # uri              : # URL
