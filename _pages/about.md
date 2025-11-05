@@ -42,4 +42,5 @@ I am a 2nd year PhD student in the Department of Computer Science and Engineerin
 - **COMP2211 Exploring Artificial Intelligence**: Teaching Assistant
 - **COMP2011 Programming with C++**: Teaching Assistant
 
+# Global Visitor Map
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-_m8FAGSNkPZjYb10CcGDl8i0HbiKmsFjZfsWErEvNI&cl=ffffff&w=a"></script>
