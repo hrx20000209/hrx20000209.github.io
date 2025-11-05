@@ -20,7 +20,7 @@ I am a 2nd year PhD student in the Department of Computer Science and Engineerin
 # Publications
 - **MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding**  [\[paper\]](https://www.arxiv.org/abs/2510.25327)[\[code\]](https://github.com/HKUST-MINSys-Lab/MMEdge)
   **Runxi Huang**, Mingxuan Yu, Mingyu Tsoi, Xiaomin Ouyang  
-  *To appear in Proceedings of the ACM Conference on Embedded Networked Sensor Systems (SenSys), 2026.*  
+  *To appear in Proceedings of the ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys), 2026.*  
 - **PipeMLLM: Accelerating On-device Multimodal LLM Inference via Speculative Sensing and Encoding**  [\[paper\]](https://dl.acm.org/doi/10.1145/3737902.3768360)
   **Runxi Huang**, Xiaomin Ouyang  
   *In Proceedings of the 2nd International Workshop on Edge and Mobile Foundation Models (EdgeFM ’25), co-located with MobiCom, Hong Kong, China, November 4–8, 2025.*  
