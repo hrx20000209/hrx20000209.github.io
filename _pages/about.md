@@ -18,7 +18,7 @@ I am a 2nd year PhD student in the Department of Computer Science and Engineerin
 
 
 # Publications
-- **MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding** [\[paper\]](https://www.arxiv.org/abs/2510.25327) [\[code\]](https://github.com/HKUST-MINSys-Lab/MMEdge)  
+- **MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding** [\[paper\]](https://arxiv.org/abs/2510.25327v4) [\[code\]](https://github.com/HKUST-MINSys-Lab/MMEdge)  
   **Runxi Huang**, Mingxuan Yu, Mingyu Tsoi, Xiaomin Ouyang  
   *To appear in Proceedings of the ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys), 2026.*  
 
