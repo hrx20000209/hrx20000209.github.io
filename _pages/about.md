@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year PhD student in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, supervised by Prof. [Xiaomin Ouyang](https://xmouyang.github.io/) at the [MINSys Lab](https://xmouyang.github.io/Team/). 
+I am a PhD candidate in the Department of Computer Science and Engineering at the Hong Kong University of Science and Technology, supervised by Prof. [Xiaomin Ouyang](https://xmouyang.github.io/) at the [MINSys Lab](https://xmouyang.github.io/Team/). 
 
 **Research interests**: Efficient Edge AI Systems, Mobile Computing, Multimodal Learning, Mobile GUI Agent
 
