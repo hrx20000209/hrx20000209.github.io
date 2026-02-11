@@ -42,5 +42,9 @@ I am a PhD candidate in the Department of Computer Science and Engineering at th
 - **COMP2211 Exploring Artificial Intelligence**: Teaching Assistant
 - **COMP2011 Programming with C++**: Teaching Assistant
 
+# Service
+- Web Chair of FMSys Workshop 2026
+
+
 # Global Visitor Map
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-_m8FAGSNkPZjYb10CcGDl8i0HbiKmsFjZfsWErEvNI&cl=ffffff&w=a"></script>
