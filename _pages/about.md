@@ -2,6 +2,12 @@
 permalink: /
 title: "Intorduction"
 author_profile: true
+sidebar:
+  - title: "Global Visitor Map"
+    text: |
+      <div style="width:100%; max-width:100%;">
+      <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-_m8FAGSNkPZjYb10CcGDl8i0HbiKmsFjZfsWErEvNI&cl=ffffff&w=a"></script>
+      </div>
 redirect_from: 
   - /about/
   - /about.html
@@ -18,17 +24,25 @@ I am a PhD candidate in the Department of Computer Science and Engineering at th
 
 
 # Publications
-- **MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding** [\[paper\]](https://arxiv.org/abs/2510.25327v5) [\[code\]](https://github.com/HKUST-MINSys-Lab/MMEdge)  
+- **MMEdge: Accelerating On-device Multimodal Inference via Pipelined Sensing and Encoding** [\[paper\]](https://arxiv.org/pdf/2510.25327v6) [\[code\]](https://github.com/HKUST-MINSys-Lab/MMEdge) [\[slides\]](/files/MMEdge_SenSys26_Slice.pptx)  
   **Runxi Huang**, Mingxuan Yu, Mingyu Tsoi, Xiaomin Ouyang  
-  *To appear in Proceedings of the ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys), 2026.*  
+  *In Proceedings of the ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys'26), 2026.*  
 
 - **PipeMLLM: Accelerating On-device Multimodal LLM Inference via Speculative Sensing and Encoding** [\[paper\]](https://dl.acm.org/doi/10.1145/3737902.3768360)  
   **Runxi Huang**, Xiaomin Ouyang  
-  *In Proceedings of the 2nd International Workshop on Edge and Mobile Foundation Models (EdgeFM ’25), co-located with MobiCom, Hong Kong, China, November 4–8, 2025.*  
+  *In Proceedings of the 2nd International Workshop on Edge and Mobile Foundation Models (EdgeFM’25), co-located with MobiCom 2025.*  
 
 - **Poster: MMEdge: Real-time Multimodal Inference via Cross-Modal Speculative Sensing and Encoding** [\[paper\]](https://doi.org/10.1145/3708468.3715688)  
   **Runxi Huang**, Xiaomin Ouyang  
-  *In Proceedings of the 26th ACM International Workshop on Mobile Computing Systems and Applications (HotMobile ’25), La Quinta, California, USA, February 26–27, 2025.*  
+  *In Proceedings of the 26th ACM International Workshop on Mobile Computing Systems and Applications (HotMobile’25).*  
+
+- **MoViD: View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement** [\[paper\]](https://doi.org/10.1145/3774906.3802786)  
+  Yejia Liu, Hengle Jiang, Haoxian Liu, **Runxi Huang**, Xiaomin Ouyang  
+  *In Proceedings of the ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys'26), 2026.*  
+
+- **Chorus: Harmonizing Context and Sensing Signals for Data-Free Model Customization in IoT** [\[paper\]](https://arxiv.org/abs/2512.15206)  
+  Liyu Zhang, Yejia Liu, Kwun Ho Liu, **Runxi Huang**, Xiaomin Ouyang  
+  *arXiv, 2025.*  
 
 
 # Award
@@ -44,7 +58,3 @@ I am a PhD candidate in the Department of Computer Science and Engineering at th
 
 # Service
 - Web Chair of FMSys Workshop 2026
-
-
-# Global Visitor Map
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-_m8FAGSNkPZjYb10CcGDl8i0HbiKmsFjZfsWErEvNI&cl=ffffff&w=a"></script>
