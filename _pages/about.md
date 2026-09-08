@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Intorduction"
+title: "Introduction"
 author_profile: true
 sidebar:
   - title: "Global Visitor Map"
